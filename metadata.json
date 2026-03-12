@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MedSimplify AI",
+  "description": "An AI-powered medical report simplifier that translates complex medical jargon into easy-to-understand language, highlights abnormal values, and provides personalized health advice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
